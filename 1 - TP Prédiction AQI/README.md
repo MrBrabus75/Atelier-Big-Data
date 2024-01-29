@@ -68,7 +68,7 @@ Pour visualiser les résultats :
 
 python graph.py
 
-
+![Graph](https://github.com/MrBrabus75/Atelier-Big-Data/raw/main/1%20-%20TP%20Pr%C3%A9diction%20AQI/Graph.png)
 
 ## Synthèse 
 Variabilité de l'AQI : Analyse de la variabilité journalière et des facteurs influents. 
