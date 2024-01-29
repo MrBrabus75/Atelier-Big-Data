@@ -1,0 +1,2 @@
+1[[:space:]]-[[:space:]]TP[[:space:]]Prédiction[[:space:]]AQI/random_forest_model.pkl filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
