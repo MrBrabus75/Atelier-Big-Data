@@ -1,5 +1,5 @@
 
-### Modélisation Prédictive des Loyers : Application du Machine Learning et de l'IA
+# Modélisation Prédictive des Loyers : Application du Machine Learning et de l'IA
 
 Ce projet vise à développer un modèle prédictif capable d'estimer le montant du loyer des maisons en fonction de diverses caractéristiques immobilières. L'objectif est de créer un modèle efficace et de faciliter les prédictions sur de nouvelles données en utilisant des techniques de Machine Learning et d'Intelligence Artificielle (IA). Pour ce faire, nous avons mis en place plusieurs étapes clés et utilisé différents fichiers.
 Configuration Requise
@@ -17,7 +17,7 @@ numpy
 
 ## Description des Fichiers
 
-# creation_entrainement_sauvegarde.py
+### creation_entrainement_sauvegarde.py
 
 Ce script joue un rôle crucial dans la construction du modèle prédictif. Voici les étapes détaillées :
 
@@ -32,7 +32,7 @@ Ce script joue un rôle crucial dans la construction du modèle prédictif. Voic
     Sauvegarde du Modèle : Enfin, nous sauvegardons le modèle dans le fichier house_rent_model.pkl pour une utilisation future.
 
 
-# utilisation_modele.py
+### utilisation_modele.py
 
 Ce script est destiné à l'utilisation du modèle sauvegardé pour faire des prédictions sur de nouvelles données. Voici les étapes :
 
@@ -47,7 +47,7 @@ Ce script est destiné à l'utilisation du modèle sauvegardé pour faire des pr
     Sauvegarde des Résultats : Les prédictions sont ajoutées aux données d'entrée, puis le résultat est sauvegardé dans le fichier new_data_with_predictions.csv.
 
 
-# Datasets Utilisés
+### Datasets Utilisés
 
     houses_to_rent_1.csv : Ce dataset initial contient des informations détaillées sur les propriétés et les loyers. Il est utilisé pour l'entraînement du modèle.
 
