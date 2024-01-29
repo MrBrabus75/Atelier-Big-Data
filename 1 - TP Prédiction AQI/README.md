@@ -10,7 +10,9 @@
 - [Utilisation](#utilisation)
 - [Licence](#licence)
 - [Contributeurs](#contributeurs)
-
+- [Synthèse](#Synthèse)
+- [Conclusion](#Conclusion)
+  
 ## Introduction
 
 Ce projet vise à analyser et prédire la qualité de l'air à la station Auber de la ligne A du RER, en utilisant des données fournies par la RATP. Il utilise l'apprentissage supervisé pour traiter et prédire la qualité de l'air.
@@ -65,3 +67,16 @@ python Train_model_total.py
 Pour visualiser les résultats :
 
 python graph.py
+
+
+
+## Synthèse 
+Variabilité de l'AQI : Analyse de la variabilité journalière et des facteurs influents. 
+Validité des Prédictions : Évaluation de la fiabilité des prédictions par rapport aux données réelles. 
+Comparaison Temporelle : Analyse des tendances et des différences entre les mois. 
+Implications pour la Santé Publique : Lien entre la qualité de l'air et les problèmes de santé publique. 
+Importance des Données et Prédictions : Rôle des prévisions dans la planification environnementale et sanitaire.
+
+## Conclusion 
+L'analyse détaillée offre des insights cruciaux sur la qualité de l'air à la station Auber, soulignant les défis actuels et futurs. Ces informations sont essentielles pour la prise de décisions en matière de santé publique et de gestion environnementale.
+
