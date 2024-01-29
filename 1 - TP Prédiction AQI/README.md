@@ -8,8 +8,6 @@
 - [Structure et Contenu du Projet](#structure-et-contenu-du-projet)
 - [Fonctionnement](#fonctionnement)
 - [Utilisation](#utilisation)
-- [Licence](#licence)
-- [Contributeurs](#contributeurs)
 - [Synthèse](#Synthèse)
 - [Conclusion](#Conclusion)
   
